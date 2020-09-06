@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="colorBottomLine">#DEDEDE</color>
+    <color name="colorShadowStart">#7700D789</color>
+    <color name="colorShadowEnd">#0800D789</color>
+    <color name="colorText">#9EA5AA</color>
+    <color name="colorGrid">#F3F4F3</color>
+    <color name="colorLineEnd">#00D789</color>
+    <color name="colorBgSelect">#7E9198</color>
+    <color name="color_F3FDFB">#F3FDFB</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_top"
+    android:layout_width="wrap_content"
+    android:layout_height="240dp"
+    android:orientation="vertical">
+
+    <com.example.linelistdemo.ScrollChartView
+        android:id="@+id/scroll_chart_main"
+        android:layout_width="wrap_content"
+        android:layout_height="240dp" />
+
+</LinearLayout>
+
